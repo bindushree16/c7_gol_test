@@ -8,7 +8,7 @@ go:
  
 build:
   pre_ci_boot:
-    image_name: drydock/u16golall
+    image_name: drydock/c7golall
     image_tag: master
     pull: true
     
